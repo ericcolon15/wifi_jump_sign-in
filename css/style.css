@@ -12,12 +12,12 @@ body {
 .wifiSignup{
  width: 100%;
  height: auto;
- padding: 100px;
- margin: 50px;
+ display: flex;
+ padding: 200px;
+ margin: 25px;
  justify-content: center;
  align-items: center;
  text-align: center;
- transform: translate(215px, 0px);
 }
 
 .signupContent{
