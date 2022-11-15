@@ -1,0 +1,75 @@
+h1, h2, h3, h4, h5, h6, p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+ background-image: linear-gradient(black, #F0950C);
+ background-size: cover;
+ background-repeat: no-repeat;
+ height: 100%;
+}
+
+.wifiSignup{
+ width: 100%;
+ height: auto;
+ padding: 100px;
+ margin: 50px;
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+ transform: translate(215px, 0px);
+}
+
+.signupContent{
+    background-color: #ffffff;
+    padding: 45px;
+    margin: 25px;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    width: 600px;
+    border-radius: 15px;
+}
+
+.formImg{
+    text-align: center;
+    padding: 40px;
+}
+
+
+.card{
+    background-color: #1E1E1E !important;
+    color: white;
+}
+
+.wifiFooter{
+    height: 500px;
+    width: 100%;
+    padding: 45px;
+    margin-top: 40px;
+    justify-content: center;
+    align-content: center;
+}
+
+.footerLogo{
+    margin: 0 auto;
+    padding: 45px;
+    width: 350px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.footerImgs{
+    width: 100%;
+    justify-content: space-between;
+    text-align: right;
+}
+
+.footerContent{
+    text-align: center;
+}
+
+.facebook, .instagram, .gmail{
+    padding: 4px;
+    justify-content: space-around;
+}
